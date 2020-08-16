@@ -18,4 +18,4 @@ Fleet Maull founded the Prison Mindfulness Institute in 1989 in order to support
 
 Willoughby Britton, my former lab advisor, has been documenting the impacts of teaching mindfulness to middle school and university students. She has published a number of papers that have helped advance our understanding of the effects of meditation on young adults.
 
-Countless others are using their unique skill sets in order to develop a personal practice and share with others in accordance with their abilities. How I can best support others is still unclear. Sometimes I consider moving to a small farm and building a few cabins around the property, allowing anyone to stay for free and conduct a meditation retreat.
+Countless others are using their unique skill sets in order to develop a personal practice and share with others in accordance with their abilities. How I can best support others is still unclear. Sometimes I consider moving to a small farm and building a few cabins around the property, allowing anyone to stay for free and spend time focused on deepening their meditation practice.

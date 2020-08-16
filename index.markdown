@@ -6,4 +6,5 @@ layout: page
 title: Home
 ---
 
-Home page info here
+## Welcome
+

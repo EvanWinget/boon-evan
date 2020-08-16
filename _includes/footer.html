@@ -3,7 +3,7 @@
 
   <div class="wrapper">
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-2">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -11,16 +11,16 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a class="u-email" href="mailto:{{ site.email }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#mail' | relative_url }}"></use></svg></a></li>
             {%- endif -%}
         </ul>
       </div>
 
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-2">
         {%- include linkedin.html -%}
       </div>
 
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-2">
         {%- include github.html -%}
       </div>
     </div>
