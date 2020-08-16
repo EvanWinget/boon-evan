@@ -16,6 +16,6 @@ Since 2010, I have met inspiring people who have helped to advance this idea in 
 
 Fleet Maull founded the Prison Mindfulness Institute in 1989 in order to support the transformation of prisoners through contemplative practice. Members of the Prison Mindfulness Institute have taught meditation in prisons and provided free books to prison library systems throughout the U.S., and early studies have demonstrated great promise in lowering recidivism and improving reintegration of prisoners after release.
 
-Willoughby Britton, my former lab advisor, has been documenting the impacts of mindfulness curriculum in middle schools and universities. She has published a number of papers that have helped advance our understanding of the effects of meditation on young adults.
+Willoughby Britton, my former lab advisor, has been documenting the impacts of teaching mindfulness to middle school and university students. She has published a number of papers that have helped advance our understanding of the effects of meditation on young adults.
 
 Countless others are using their unique skill sets in order to develop a personal practice and share with others in accordance with their abilities. How I can best support others is still unclear. Sometimes I consider moving to a small farm and building a few cabins around the property, allowing anyone to stay for free and conduct a meditation retreat.
