@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## About 
+### About 
 
 The English definition of _boon_ is 'a thing that is helpful or beneficial'.
 
