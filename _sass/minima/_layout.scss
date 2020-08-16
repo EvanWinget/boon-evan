@@ -110,7 +110,7 @@
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
   background: $brand-color;
-  color: $grey-color-dark;
+  color: $grey-color-dark !important;
 }
 
 .footer-heading {
