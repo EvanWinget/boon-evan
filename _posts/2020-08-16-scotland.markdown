@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Scotland"
+date:   2020-08-16 10:00:10 -0400
+categories: projects
+---
+This is a post about hiking the West Highland Way
+
+![00](/assets/scotland/scotland00.jpeg)
+_00_
+
+![01](/assets/scotland/scotland01.jpeg)
+_01_
+
+![02](/assets/scotland/scotland02.jpeg)
+_02_
+
+![03](/assets/scotland/scotland03.jpeg)
+_03_
+
+![04](/assets/scotland/scotland04.jpeg)
+_04_
+
+![05](/assets/scotland/scotland05.jpeg)
+_05_
+
+![06](/assets/scotland/scotland06.jpeg)
+_06_
+
+![07](/assets/scotland/scotland07.jpeg)
+_07_
+
+![08](/assets/scotland/scotland08.jpeg)
+_08_
+
+![09](/assets/scotland/scotland09.jpeg)
+_09_
+
+![10](/assets/scotland/scotland10.jpeg)
+_10_
+
+![11](/assets/scotland/scotland11.jpeg)
+_11_
