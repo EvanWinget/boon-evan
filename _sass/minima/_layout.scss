@@ -51,7 +51,7 @@
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
+    background-color: $brand-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
@@ -110,7 +110,7 @@
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
   background: $brand-color;
-  color: $text-color;
+  color: $grey-color-dark;
 }
 
 .footer-heading {
