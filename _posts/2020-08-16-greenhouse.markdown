@@ -4,7 +4,7 @@ title:  "Greenhouse"
 date:   2020-08-16 11:00:10 -0400
 categories: projects
 ---
-After finishing the cabin, I decided to build a greenhouse on a southern facing wall of one of the pole barns. I didn't document this nearly as well as the cabin, but still learned a good deal throughout the process.
+In the fall of 2016 I decided to build a greenhouse on a southern facing wall of one of the pole barns. I didn't document this nearly as well as the cabin, but still learned a good deal throughout the process.
 
 ![00](/assets/greenhouse/greenhouse00.jpeg)
 _Rough cedar 4"x4"s and 4"x6" were used for their rot-resistance_
